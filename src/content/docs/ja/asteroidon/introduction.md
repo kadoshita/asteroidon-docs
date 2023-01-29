@@ -5,7 +5,7 @@ description: "はじめに"
 
 **ようこそ あすてろいどんへ!**
 
-[![asteroidon logo](/public/horizontal-image.png)](https://mstdn.sublimer.me/about)
+[![asteroidon logo](/horizontal-image.png)](https://mstdn.sublimer.me/about)
 
 このサイトは、マストドンサーバー「あすてろいどん」のヘルプページです。
 
