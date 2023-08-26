@@ -28,6 +28,7 @@ export const SIDEBAR: Sidebar = {
             { text: 'はじめに', link: 'ja/asteroidon/introduction' },
             { text: 'あすてろいどんとは', link: 'ja/asteroidon/explain' },
             { text: 'あすてろいどんを支える技術', link: 'ja/asteroidon/system' },
+            { text: 'スパムアカウントへの対処方針', link: 'ja/asteroidon/spam' },
         ],
         マストドンについて: [{ text: 'マストドンとは', link: 'ja/mastodon/explain' }],
     },
